@@ -1,10 +1,8 @@
 # 1337 Softwares - E-Commerce Platform Showcase
 
-![Banner](screenshots/macho-details.png)
-
 ## 🚀 Overview
 
-**1337 Softwares** is a premium, high-performance e-commerce platform designed for digital products and gaming scripts. Built with a modern tech stack and a stunning **Cyberpunk-inspired UI**, it offers a seamless experience for both customers and administrators.
+**1337 Softwares** is a premium, high-performance e-commerce platform designed for modern digital commerce. Built with a modern tech stack and a stunning **Cyberpunk-inspired UI**, it offers a seamless experience for both customers and administrators.
 
 > **Note:** This repository is a **Project Showcase** containing descriptions and visual assets. The source code is private.
 
@@ -40,17 +38,9 @@
 
 ---
 
-## 📸 visual Gallery
+## 📸 Visual Gallery
 
-| Instant Delivery | Lifetime Support | Worldwide Access |
-| :---: | :---: | :---: |
-| ![Delivery](screenshots/Instant%20Delivery.png) | ![Support](screenshots/Support.png) | ![Worldwide](screenshots/Worldwide%20Access.png) |
-
-### 💎 Featured Products
-The platform hosts high-quality scripts such as **Macho** and **Susano**, featuring detailed documentation and lifetime access options.
-
-![Macho](screenshots/macho.png)
-![Susano](screenshots/susano.jpg)
+(Screenshots of Home, Admin, and Products pages will be added here)
 
 ---
 

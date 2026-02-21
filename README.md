@@ -40,37 +40,16 @@
 
 ---
 
-## 📸 Visual Layouts
+## 📸 Visual Showcase
 
-Since this is a private source showcase, we visualize the platform's layout and architecture below.
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
 
-### Home Page Layout
-```mermaid
-graph TD
-    Nav[Glassmorphic Navbar] --> Hero[Hero Section: '1337 Softwares']
-    Hero --> Rings[Animated Neon Rings]
-    Hero --> Btns[CTA: Shop Now / View Products]
-    Btns --> Features[Features Grid: Delivery, Support, Global]
-    Features --> Footer[Minimalist Cyber Footer]
-```
+### 📦 Products Page
+![Products Page](screenshots/products.png)
 
-### Products Page Layout
-```mermaid
-graph LR
-    Header[Title: OUR PRODUCTS] --> Grid[Responsive 3-Column Grid]
-    Grid --> Card1[Card: Title + Multi-Tier Price]
-    Grid --> Card2[Card: Icon + Stock Info]
-    Grid --> Card3[Card: Cyber Glow Effects]
-```
-
-### Admin Dashboard Layout
-```mermaid
-graph TD
-    Title[Admin Dashboard] --> Actions[Top Bar: + Add Product]
-    Actions --> Table[Glassmorphic Data Table]
-    Table --> Rows[Rows: Image | Name | Price | Stock | Actions]
-    Rows --> Modals[Modals: Edit / Delete Confirmation]
-```
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin.png)
 
 ---
 

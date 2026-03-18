@@ -51,6 +51,14 @@
 ### 🛠️ Admin Dashboard
 ![Admin Dashboard](screenshots/admin.png)
 
+### 👥 Users Dashboard
+![Users Dashboard](screenshots/users%20dashboard.png)
+
+### 🎫 Ticket Management
+![Ticket Management](screenshots/ticket.png)
+
+### 🤖 DM Bot
+![DM Bot](screenshots/dm%20bot.png)
 ---
 
 ## 📢 Contact & Support

@@ -52,13 +52,13 @@
 ![Admin Dashboard](screenshots/admin.png)
 
 ### 👥 Users Dashboard
-![Users Dashboard](screenshots/users%20dashboard.png)
+![Users Dashboard](screenshots/users%20dashboard.url)
 
 ### 🎫 Ticket Management
-![Ticket Management](screenshots/ticket.png)
+![Ticket Management](screenshots/ticket.url)
 
 ### 🤖 DM Bot
-![DM Bot](screenshots/dm%20bot.png)
+![DM Bot](screenshots/dm%20bot.url)
 ---
 
 ## 📢 Contact & Support
